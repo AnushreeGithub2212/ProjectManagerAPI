@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Finalsubmission\ProjectManagerAPI\BusinessLayer\obj\Release\BusinessLayer.pdb
